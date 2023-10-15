@@ -48,6 +48,9 @@ Es compatible con una variedad de microcontroladores y microprocesadores, así c
 6. Plataformas de desarrollo basadas en microcontroladores AVR
 ![B](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)
 
+
+
+
 [Visitar mi subpágina](https://github.com/JAZMIN2021/Hora/blob/0ed88fd616d5dd42e99c552b956e16713da3b2d7/CNAME)
 
 
